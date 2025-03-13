@@ -62,9 +62,9 @@ pip install pillow
 ```
 
 ## License
-
 This project is licensed under the MIT License.
----
+
+
 Feel free to contribute, suggest improvements, or ask questions by opening an issue in this repository.
 Ensure that you create a `requirements.txt` file containing the following:
 
